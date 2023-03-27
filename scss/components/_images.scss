@@ -1,0 +1,12 @@
+.logo {
+    width: 120px;
+}
+
+.browser-tab-img {
+    width: 100%;
+
+    @media screen and (min-width: 768px) {
+        width: 50%;
+        margin-right: 40px;
+    }
+}
